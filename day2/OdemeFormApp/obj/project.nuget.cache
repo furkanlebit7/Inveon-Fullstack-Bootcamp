@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1MInzKXeB8e2ZQ7sSRaB2S8FsdX/ZUNguLfBS6D1UdvYAIYLwim657qi3ll5l+VwF+w2dM8NvBZz1VmIS4HuQ==",
+  "success": true,
+  "projectFilePath": "D:\\inveonBootcamp\\day2\\OdemeFormApp\\OdemeFormApp\\OdemeFormApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

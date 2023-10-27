@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeInveonOrnek", "AttributeInveonOrnek\AttributeInveonOrnek.csproj", "{D22E0288-0DBC-444B-92A0-DB2BB3035494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22E0288-0DBC-444B-92A0-DB2BB3035494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22E0288-0DBC-444B-92A0-DB2BB3035494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22E0288-0DBC-444B-92A0-DB2BB3035494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22E0288-0DBC-444B-92A0-DB2BB3035494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99DAA59-8540-4DDB-AD4E-D7B4676738E1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\bin\Debug\net7.0\AttributeInveonOrnek.exe
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\bin\Debug\net7.0\AttributeInveonOrnek.deps.json
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\bin\Debug\net7.0\AttributeInveonOrnek.runtimeconfig.json
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\bin\Debug\net7.0\AttributeInveonOrnek.dll
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\bin\Debug\net7.0\AttributeInveonOrnek.pdb
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\obj\Debug\net7.0\AttributeInveonOrnek.GeneratedMSBuildEditorConfig.editorconfig
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\obj\Debug\net7.0\AttributeInveonOrnek.AssemblyInfoInputs.cache
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\obj\Debug\net7.0\AttributeInveonOrnek.AssemblyInfo.cs
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\obj\Debug\net7.0\AttributeInveonOrnek.csproj.CoreCompileInputs.cache
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\obj\Debug\net7.0\AttributeInveonOrnek.dll
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\obj\Debug\net7.0\refint\AttributeInveonOrnek.dll
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\obj\Debug\net7.0\AttributeInveonOrnek.pdb
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\obj\Debug\net7.0\AttributeInveonOrnek.genruntimeconfig.cache
+D:\inveonBootcamp\day3\AttributeInveonOrnek\AttributeInveonOrnek\obj\Debug\net7.0\ref\AttributeInveonOrnek.dll
