@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CApt1t965jX3Tg6emuCV9ALY2Kn6Bh90ovi7oD1Hkz3jLiEI6ZbOBPmy8qROLVmCriPyjjpES6kuQqmaqKLiWw==",
+  "success": true,
+  "projectFilePath": "D:\\inveonBootcamp\\day6\\RabbitMQConsumerInveonOrnek\\RabbitMQConsumerInveonOrnek\\RabbitMQConsumerInveonOrnek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\rabbitmq.client\\6.3.0\\rabbitmq.client.6.3.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
